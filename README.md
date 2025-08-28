@@ -1,6 +1,6 @@
-# 🚀 Mission 1: The Empathetic Code Reviewer  
+# Mission 1: The Empathetic Code Reviewer  
 
-## 📌 Project Overview  
+## Project Overview  
 This project was built as part of the **Darwix AI Hackathon** under the theme *"Freedom from Mundane: AI for a Smarter Life"*.  
 
 The goal of Mission 1 is to create an **empathetic AI-powered code reviewer**.  
@@ -13,16 +13,19 @@ The program produces a **well-formatted Markdown report** that can be displayed 
 
 ---
 
-## 📂 Project Files  
+## Project Files  
 ├── DarwixAI_Hackathon.ipynb # Main Jupyter Notebook (Google Colab code)
+
 ├── requirements.txt # Python dependencies
+
 ├── empathetic_code_review.txt # Example generated review report (output)
+
 └── README.md # Project documentation (this file)
 
 
 ---
 
-## ⚙️ Setup & Requirements  
+## Setup & Requirements  
 This project was developed in **Google Colab**, so most dependencies are already available.  
 For local use, install requirements with:  
 
@@ -51,8 +54,6 @@ Example section from the generated report:
 ```python
 def get_active_users(users):
     return [user for user in users if user.is_active and user.profile_complete]
-
-
 ---
 
 ##  Features  
